@@ -1,5 +1,3 @@
 <?php
-
-	echo "Teste repositório";
-
+	echo "Arquivo editado!";
 ?>

@@ -1,3 +1,3 @@
 <?php
-	echo "Arquivo editado!";
+	echo "Arquivo editado mais uma vez!";
 ?>
